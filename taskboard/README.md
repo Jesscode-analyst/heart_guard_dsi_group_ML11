@@ -28,7 +28,10 @@
 | 23. Write conclusion, limitations, and future directions                             | Pending    | [Link](../README.md#conclusion)                 |
 | 24. Prepare 5-min presentation (Sat., Nov 15)                                        | Pending    | [Link](../presentation)                         |
 
-*Friendly Reminder: do not commit directly to the main branch, each task should be developed in its own branch for review.*
+*Friendly Reminder:* 
+*- Do not commit directly to the main branch, each task should be developed in its own branch for review.*
+*- Tasks 15 and 16 will work on the same code file.*
+*- Tasks 19 and 20 will work on the same code file.*
 
 # Create and Review Pull Request (PR)
 🔔 Evaluation criteria: Each team member must have created a PR.<br>
