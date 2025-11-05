@@ -10,11 +10,11 @@ Pending
 | Describe the project objective                                                             | Pending           |
 | Make the project timeline                                                                  | Pending           |
 | Describe the dataset, features, and outcome                                                | Pending           |
-| Load, check, and clean the dataset                                                         | Pending           |
+| Preprocessing: Load, check, and clean the dataset                                          | Pending           |
 | Describe preprocessing and EDA findings                                                    | Pending           |
 | Baseline model: build model, Split dataset, and train model                                | Pending           |
 | Baseline model: evaluate model and visualize performance                                   | Pending           |
-| Advanced model: build model, feature engineering, hyperparameter tuning, and train model   | Pending           |
+| Advanced model: build model, feature engineering, hyperparameter tuning, and train model   | Pending           | [Link](#advanced-model) 
 | Advanced model: evaluate model and visualize performance                                   | Pending           |
 | Describe baseline and ML methods and summarize findings of comparison                      | Pending           |
 | Describe conclusion, limitations, and future directions                                    | Pending           |
