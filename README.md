@@ -42,7 +42,7 @@ Pending
 ### EDA
 Pending
 
-### Baseline mode
+### Baseline model
 Pending
 
 ### Advanced model
@@ -55,7 +55,7 @@ Pending
 ### EDA
 Pending
 
-### Baseline mode
+### Baseline model
 Pending
 
 ### Advanced model
