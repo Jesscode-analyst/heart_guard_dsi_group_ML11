@@ -11,9 +11,9 @@ Pending
 | Build project timeline                                                     | Pending    | [Link](../documentation/README.md#project--timeline) |
 | Describe dataset, features, and target                                     | Pending    | [Link](../README.md#dataset-features-and-target)     |
 | Preprocess data: load, check, clean                                        | Pending    | [Link](../README.md#preprocessing)                   |
-| Summarize preprocessing findings                                           | Pending    | [Link](../README.md#preprocessing-2)                 |
+| Summarize preprocessing findings                                           | Pending    | [Link](../README.md#preprocessing-1)                 |
 | Perform exploratory data analysisus (EDA) and descriptive statistics       | Pending    | [Link](../README.md#eda)                             |
-| Summarize EDA findings                                                     | Pending    | [Link](../README.md#eda-2)                           |
+| Summarize EDA findings                                                     | Pending    | [Link](../README.md#eda-1)                           |
 | Baseline model: build model, split data, train model                       | Pending    |                                     |
 | Baseline model: evaluate model and visualize performance                   | Pending    |                                     |
 | Advanced model: build model, engineer features, tune, and train model      | Pending    | [Link](../README.md#advanced-model) |
