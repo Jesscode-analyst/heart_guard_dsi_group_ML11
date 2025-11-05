@@ -57,9 +57,9 @@ The links currently point to YouTube as placeholders; please replace them with y
 └── README.md
 ```
 
-* **data**: Module slides (.pdf) used during learning sessions.
-* **images**: Contains assignments.
-* **models**: Resources for the instructional team.
-* **LICENSE**: The license for this repository.
-* **README.md**: This file.
+* **data**: Raw, processed, and finalized datasets.
+* **images**: Contains any images generated from EDA to modeling.
+* **models**: Baseline and machine learning models for comparison. 
+* **LICENSE**: Repository license information.
+* **README.md**: Project overview and documentation.
 
