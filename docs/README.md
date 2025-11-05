@@ -3,7 +3,7 @@
 | ------------------------------------------------------------------------------------ | ---------- | ----------------------------------------------- |
 | 1. Choose dataset                                                                    | All        | [Link](../data/raw)                             |
 | 2. Write abstract                                                                    | Pending    | [Link](../README.md#abstract)                   |
-| 3. Develop business case                                                             | Pending    | [Link](../README.md#business--case)             |
+| 3. Develop business case                                                             | Pending    | [Link](../README.md#business-case)              |
 | 4. Create GitHub repo                                                                | Chun-Yuan  | [Link](../README.md)                            |
 | 5. Define project objective                                                          | Pending    | [Link](../README.md#objectives)                 |
 | 6. Build project timeline                                                            | Pending    | [Link](../README.md#timeline)                   |
