@@ -1,53 +1,39 @@
-# Linear regression, classification, and resampling
+# Heart Failure Prediction Dataset
 
 ## Content
-* [Description](#description)
-* [Learning Outcomes](#learning-outcomes)
-* [Assignments](#assignments)
-* [Contacts](#contacts)
-* [Delivery of the Learning Module](#delivery-of-the-learning-module)
-* [Schedule](#schedule)
-* [Requirements](#requirements)
-* [Resources](#resources)
-  - [Documents](#documents)
-  - [Simple Linear Regression](#simple-linear-regression)
-  - [Multiple linear regression, interactions, qualitative predictors](#multiple-linear-regression-interactions-qualitative-predictors)
-  - [Classification (logistic regression, generative models)](#classification-logistic-regression-generative-models)
-  - [Resampling methods (CV, bootstrap) and Linear model selection and regularization](#resampling-methods-cv-bootstrap-and-linear-model-selection-and-regularization)
-* [Folder Structure](#folder-structure)
+* [Purpose & Overview](#purpose-&-overview)
+* [Goals & Objectives](#goals-&-objectives)
+* [Techniques & Technologies](#techniques-&-technologies)
+* [Key Findings & Instructions](#key-findings-&-instructions)
+* [Visuals & Credits](#visuals-&-credits)
 
-## Description
+## Purpose & Overview
 
-This module introduces the skills required to design, implement, and test basic statistical learning methods, including regression, classification, and clustering, as well as validating models with resampling techniques. It compares the differences between modeling for prediction purposes and inference, exploring the trade-offs between prediction accuracy, model interpretability, and the bias-variance trade-off. Participants also gain exposure to key tools such as Pandas, NumPy, and scikit-learn.
+Pending
 
-## Learning Outcomes
+## Goals & Objectives
 
-By the end of the module, participants will be able to:
+Pending
 
-- Implement and interpret the results from several supervised learning approaches for classification and regression.
-- Use resampling methods such as cross-validation and bootstrapping to select and evaluate models.
-- Understand the requirements for reproducible machine learning and ensure consistency across model implementations.
-- Analyze the uncertainties and limitations associated with model results and understand the ethical implications of applying these models in real-world decision-making.
-- Explain the trade-offs and considerations of various statistical methods to both technical and non-technical audiences.
-- Apply `pandas`, `numpy`, and `scikit-learn` for data manipulation, model implementation, and evaluation.
+## Techniques & Technologies
 
-## Assignments
+Pending
 
-Participants should review the [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md) for instructions on how to complete assignments in this module.
+## Key Findings & Instructions
 
-[Assignment 1](./02_activities/assignments/assignment_1.ipynb)
+Pending
 
-[Assignment 2](./02_activities/assignments/assignment_2.ipynb)
+## Visuals & Credits
 
-[Assignment 3](./02_activities/assignments/assignment_3.ipynb)
+Pending
 
-**Assignment Due Dates**
 
-| Assessment   | Content                            | Due Date     |
-|--------------|------------------------------------|--------------|
-| Assignment 1 | Classification (Sessions 1, 2)     | Sept 7 |
-| Assignment 2 | Regression (Sessions 3, 4)         | Sept 14    |
-| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | Sept 21   |
+
+
+
+
+
+
 
 ### Contacts
 **Questions can be submitted to the _#cohort-6-help_ channel on Slack**
