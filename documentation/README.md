@@ -5,9 +5,9 @@ Pending
 Pending
 
 # Pull Request (PR)
-[ ] Evaluation criteria: Each team member must have created a PR.
-[ ] Evaluation criteria: Each team member must have reviewed a PR.
-[ ] Evaluation criteria: Each team member must have merged a different PR.
+[ ] Evaluation criteria: Each team member must have created a PR.<br>
+[ ] Evaluation criteria: Each team member must have reviewed a PR.<br>
+[ ] Evaluation criteria: Each team member must have merged a different PR.<br>
 
 | PR author         | Reviewer A        | Reviewer B        |
 | ----------------- | ----------------- | ----------------- | 
