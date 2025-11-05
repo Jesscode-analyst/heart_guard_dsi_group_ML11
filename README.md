@@ -10,27 +10,34 @@
 * [Uma Deshpande](https://github.com/aniruma3012)
 * [Yi-Chen Hsiao](https://github.com/yichen-hsiao)
 
-## Content
-* [Purpose & Overview](#purpose--overview)
-* [Goals & Objectives](#goals--objectives)
-* [Techniques & Technologies](#techniques--technologies)
-* [Key Findings & Instructions](#key-findings--instructions)
-* [Visuals & Credits](#visuals--credits)
+## Abstract
+Pending
+
+## Overview
+* [Business Case](#business--case)
+* [Objectives](#objectives)
+* [Methods](#methods)
+* [Results](#results)
+* [Conclusion](#conclusion)
+* [Requirements](#requirements)
 * [Reflection Videos](#reflection--videos)
 
-## Purpose & Overview
+## Business Case
 Pending
 
-## Goals & Objectives
+## Objectives
 Pending
 
-## Techniques & Technologies
+## Methods
 Pending
 
-## Key Findings & Instructions
+## Results
 Pending
 
-## Visuals & Credits
+## Conclusion
+Pending
+
+## Requirements
 Pending
 
 ## Reflection Videos
