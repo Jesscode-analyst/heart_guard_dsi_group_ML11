@@ -32,7 +32,10 @@ Pending
 ### Dataset, features, and target 
 Pending
 
-### Preprocessing & EDA
+### Preprocessing
+Pending
+
+### EDA
 Pending
 
 ### Baseline mode
@@ -42,7 +45,10 @@ Pending
 Pending
 
 ## Results
-### Preprocessing & EDA
+### Preprocessing
+Pending
+
+### EDA
 Pending
 
 ### Baseline mode
