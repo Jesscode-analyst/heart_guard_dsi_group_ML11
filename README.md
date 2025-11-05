@@ -1,5 +1,7 @@
 # Heart Failure Prediction Dataset
 
+## Data Sciences Institute, University of Toronto - Cohort 7 - ML Team 11
+
 ## Members (alphabetical)
 * [Amy Li](https://github.com/lsmamy)
 * [Chun-Yuan Chen](https://github.com/Chun-YuanChen) 
@@ -7,6 +9,9 @@
 * Jaskirat Kaur
 * [Uma Deshpande](https://github.com/aniruma3012)
 * [Yi-Chen Hsiao](https://github.com/yichen-hsiao)
+
+## Project Timeline
+Pending
 
 ## Content
 * [Purpose & Overview](#purpose--overview)
@@ -31,7 +36,6 @@ Pending
 ## Visuals & Credits
 Pending
 
-
 ## Reflection Videos
 The links currently point to YouTube as placeholders; please replace them with your own video links once ready.
 
@@ -52,18 +56,8 @@ The links currently point to YouTube as placeholders; please replace them with y
 
 
 
-### Contacts
-**Questions can be submitted to the _#cohort-6-help_ channel on Slack**
-* Technical Facilitator: **Julia**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06D4QM7YEA)
-* Learning Support Staff: **Ernani**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06V88X2X3N)
-* Learning Support Staff: **Edward**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U090NAV8Z8U)
-* Learning Support Staff: **Gayathri**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U08R6URRSCT)
 
 ### Delivery of the Learning Module
-
-This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. Optional work periods are to be used to seek help from peers, the Learning Support team, and to work through the homework and assignments in the learning module, with access to live help. Content is not facilitated, but rather, this time should be driven by participants. We encourage participants to come to these work periods with questions and problems to work through. 
- 
-Participants are encouraged to engage actively during the learning module. The key to developing the core skills in each learning module is through practice. The more participants engage in coding with the instructional team and apply the skills in each module, the more likely these skills will solidify. 
 
 The technical facilitator will introduce the concepts through a collaborative live coding session using the Python notebooks, which can be found under `/01_materials/notebooks/`. Slides can be found under `/01_materials/slides/`.
 
