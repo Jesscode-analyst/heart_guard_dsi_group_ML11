@@ -1,4 +1,5 @@
-# Guard ML: Detect risk before heart failure appear. (Just a working title — open to better ideas)
+# Guard ML: Detect risk before heart failure appear.<br> 
+(Just a working title — open to better ideas)
 
 ## Data Sciences Institute, University of Toronto - Cohort 7 - ML Team 11
 
