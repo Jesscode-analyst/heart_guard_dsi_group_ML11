@@ -23,7 +23,7 @@ Pending
 * [Reflection Videos](#reflection-videos)
 
 ## Business Case
-Pending
+We are a machine learning team working on heart disease prevention. Our job is to support companies working on solutions to prevent heart disease on which factors significantly predict the occurence of heart failures so companies know which factors to target in their solutions/products.
 
 ## Objectives
 Pending
