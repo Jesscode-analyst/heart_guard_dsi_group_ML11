@@ -33,7 +33,7 @@ Pending
 
 
 ## Reflection Videos
-** The links currently point to YouTube as placeholders; please replace them with your own video links once ready. **
+The links currently point to YouTube as placeholders; please replace them with your own video links once ready.
 
 * [Amy Li](https://www.youtube.com/)
 * [Chun-Yuan Chen](https://www.youtube.com/) 
