@@ -1,11 +1,11 @@
 # Heart Failure Prediction Dataset
 
 ## Content
-* [Purpose & Overview](#purpose-&-overview)
-* [Goals & Objectives](#goals-&-objectives)
-* [Techniques & Technologies](#techniques-&-technologies)
-* [Key Findings & Instructions](#key-findings-&-instructions)
-* [Visuals & Credits](#visuals-&-credits)
+* [Purpose & Overview](#purpose--overview)
+* [Goals & Objectives](#goals--objectives)
+* [Techniques & Technologies](#techniques--technologies)
+* [Key Findings & Instructions](#key-findings--instructions)
+* [Visuals & Credits](#visuals--credits)
 
 ## Purpose & Overview
 
