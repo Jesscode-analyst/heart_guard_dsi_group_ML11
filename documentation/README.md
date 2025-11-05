@@ -9,7 +9,7 @@ Pending
 [ ] Evaluation criteria: Each team member must have reviewed a PR.
 [ ] Evaluation criteria: Each team member must have merged a different PR.
 
-| PR author         | Reviewer A*       | Reviewer B*       |
+| PR author         | Reviewer A        | Reviewer B        |
 | ----------------- | ----------------- | ----------------- | 
 | Amy Li            | Chun-Yuan Chen    | Isra Khan         |
 | Chun-Yuan Chen    | Isra Khan         | Jaskirat Kaur     | 
@@ -17,4 +17,4 @@ Pending
 | Jaskirat Kaur     | Uma Deshpande     | Yi-Chen Hsiao     |
 | Uma Deshpande     | Yi-Chen Hsiao     | Amy Li            |
 | Yi-Chen Hsiao     | Amy Li            | Chun-Yuan Chen    |
-* The final reviewer also merges the PR. 
+Notes. The final reviewer also merges the PR. 
