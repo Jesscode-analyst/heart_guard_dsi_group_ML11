@@ -4,7 +4,7 @@ Pending
 # Action Items
 | Task                                                                       | Lead       | Anchor                              | 
 | -------------------------------------------------------------------------- | ---------- | ----------------------------------- |
-| Choose dataset                                                             | All        | [Link](./data/raw)                  |
+| Choose dataset                                                             | All        | [Link](../data/raw)                  |
 | Develop business case                                                      | Pending    |                                     |
 | Create GitHub repo                                                         | Chun-Yuan  |                                     |
 | Define project objective                                                   | Pending    |                                     |
