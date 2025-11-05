@@ -2,6 +2,7 @@
 | Task                                                                       | Lead       | Anchor                                               | 
 | -------------------------------------------------------------------------- | ---------- | ---------------------------------------------------- |
 | Choose dataset                                                             | All        | [Link](../data/raw)                                  |
+| Write abstract                                                             | Pending    | [Link](../README.md#abstract)                        |
 | Develop business case                                                      | Pending    | [Link](../README.md#business--case)                  |
 | Create GitHub repo                                                         | Chun-Yuan  | [Link](../README.md)                                 |
 | Define project objective                                                   | Pending    | [Link](../README.md#objectives)                      |
