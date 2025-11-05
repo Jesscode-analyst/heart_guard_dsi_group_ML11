@@ -53,13 +53,15 @@ The links currently point to YouTube as placeholders; please replace them with y
 ├── data
 ├── images
 ├── models
+├── presentation
 ├── LICENSE
 └── README.md
 ```
 
 * **data**: Raw, processed, and finalized datasets.
 * **images**: Contains any images generated from EDA to modeling.
-* **models**: Baseline and machine learning models for comparison. 
+* **models**: Baseline and machine learning models for comparison.
+* **presentation**: Slides and materials for project showcase. 
 * **LICENSE**: Repository license information.
 * **README.md**: Project overview and documentation.
 
