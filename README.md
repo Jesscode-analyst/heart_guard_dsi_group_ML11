@@ -40,7 +40,7 @@ The links currently point to YouTube as placeholders; please replace them with y
 * [Isra Khan](https://www.youtube.com/)
 * [Jaskirat Kaur](https://www.youtube.com/)
 * [Uma Deshpande](https://www.youtube.com/)
-* [Yi-Chen Hsiao](https://www.youtube.com/))
+* [Yi-Chen Hsiao](https://www.youtube.com/)
 
 
 
