@@ -70,7 +70,7 @@ Pending
 Pending
 
 ## Requirements
-(This section outlines the required tool and library versions for running our models.)
+(This section outlines the required tool and library versions for running our models.)<br>
 Pending
 
 ## Reflection Videos
