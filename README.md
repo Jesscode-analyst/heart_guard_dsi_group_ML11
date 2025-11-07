@@ -40,20 +40,20 @@ Pending
 ### Dataset, features, and target 
 We will use the Heart Failure Prediction Dataset from Kaggle to build machine learning models. This dataset contains 918 observations, 11 features (5 continuous and 6 categorical), and one target variable (categorical). The column names, types, descriptions, and values are detailed in the table below.
 
-| Column Name     | Type        | Description                                           | Values / Units                                      | Risk Direction         |
+| Column Name     | Type        | Description                                           | Values / Units                                      | Risk Direction*         |
 |-----------------|-------------|-------------------------------------------------------|-----------------------------------------------------|------------------------|
-| HeartDisease    | Target      | Diagnosis outcome                                     | 1 = heart disease, 0 = normal                       | —                      |
-| Age             | Continuous  | Patient’s age                                         | Years                                               | Age ↑                  |
-| Sex             | Categorical | Biological sex                                        | M = male, F = female                                | Male                   |
-| ChestPainType   | Categorical | Type of chest pain                                    | TA = typical angina, ATA = atypical angina, NAP = non-anginal pain, ASY = asymptomatic | TA or ATA        |
-| RestingBP       | Continuous  | Resting blood pressure                                | mm Hg                                               | Higher values          |
-| Cholesterol     | Continuous  | Serum cholesterol level                               | mg/dL                                               | Higher values          |
-| FastingBS       | Categorical | Fasting blood sugar status                            | 1 = >120 mg/dL, 0 = ≤120 mg/dL                      | 1                      |
-| RestingECG      | Categorical | Resting electrocardiogram findings                    | Normal, ST = ST-T wave abnormality, LVH = left ventricular hypertrophy | ST or LVH              |
-| MaxHR           | Continuous  | Maximum heart rate achieved                           | bpm (beats per minute)                              | Lower values           |
-| ExerciseAngina  | Categorical | Presence of exercise-induced angina                   | Y = yes, N = no                                     | Y                      |
-| Oldpeak         | Continuous  | ST depression induced by exercise relative to rest    | mV (millivolts)                                     | Higher values          |
-| ST_Slope        | Categorical | Slope of the peak exercise ST segment                 | Up = upsloping, Flat = flat, Down = downsloping     | Flat or Down           |
+| HeartDisease    | Target: Categorical      | Diagnosis outcome                                     | 1 = heart disease,<br> 0 = normal                       | —                      |
+| Age             | Feature: Continuous  | Patient’s age                                         | Years                                               | Age ↑                  |
+| Sex             | Feature: Categorical | Biological sex                                        | M = male,<br> F = female                                | Male                   |
+| ChestPainType   | Feature: Categorical | Type of chest pain                                    | TA = typical angina,<br> ATA = atypical angina,<br> NAP = non-anginal pain,<br> ASY = asymptomatic | TA or ATA        |
+| RestingBP       | Feature: Continuous  | Resting blood pressure                                | mm Hg                                               | Higher values          |
+| Cholesterol     | Feature: Continuous  | Serum cholesterol level                               | mg/dL                                               | Higher values          |
+| FastingBS       | Feature: Categorical | Fasting blood sugar status                            | 1 = >120 mg/dL,<br> 0 = ≤120 mg/dL                      | 1                      |
+| RestingECG      | Feature: Categorical | Resting electrocardiogram findings                    | Normal,<br> ST = ST-T wave abnormality,<br> LVH = left ventricular hypertrophy | ST or LVH              |
+| MaxHR           | Feature: Continuous  | Maximum heart rate achieved                           | bpm (beats per minute)                              | Lower values           |
+| ExerciseAngina  | Feature: Categorical | Presence of exercise-induced angina                   | Y = yes,<br> N = no                                     | Y                      |
+| Oldpeak         | Feature: Continuous  | ST depression induced by exercise relative to rest    | mV (millivolts)                                     | Higher values          |
+| ST_Slope        | Feature: Categorical | Slope of the peak exercise ST segment                 | Up = upsloping,<br> Flat = flat,<br> Down = downsloping     | Flat or Down           |
 
 *This column indicates how each feature (direction) is theoretically associated with a greater likelihood of heart disease.
 
