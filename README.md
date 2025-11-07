@@ -71,6 +71,20 @@ Pending
 ### Advanced model
 Pending
 
+### Model Optimization & Cross-validation
+ 
+In the later stages of development, the project will optimize both the baseline and advanced models through hyperparameter tuning. Model evaluation will be conducted using cross-validation techniques, specifically GridSearchCV.
+ 
+### Model Testing & Performance Evaluation
+ 
+During the testing phase, unseen data will be used for prediction. The final performance of both the baseline and advanced models will be assessed using key metrics, including accuracy, precision, recall, F1 score, and the ROC/AUC curve.
+ 
+### Model comparison
+At the conclusion of the testing phase, we will compare the performance of the baseline and advanced models across various evaluation metrics. Based on this comparison, the most effective model will be recommended to the client.
+
+
+
+
 ## Results
 ### Preprocessing
 Pending
