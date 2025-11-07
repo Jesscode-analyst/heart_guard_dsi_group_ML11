@@ -30,8 +30,8 @@ We are a machine learning team working on heart disease prevention. Our job is t
 ## Objectives
 Pending
 
-## Timeline
-Pending
+## Project Roadmap
+<img src="images/Project Roadmap.png" width="550"/>
 
 ## Methods
 ### Dataset, features, and target 
