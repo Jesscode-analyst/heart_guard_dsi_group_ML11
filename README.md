@@ -25,7 +25,6 @@ Keywords: heart failure, machine learning, classification<br>
 * [Methods](#methods)
 * [Results](#results)
 * [Conclusion](#conclusion)
-* [Requirements](#requirements)
 * [Reflection Videos](#reflection-videos)
 
 ## Business Case
