@@ -9,7 +9,7 @@
 | 4. Preprocess: summarize findings with key figure(s) if applicable                            | Amy               | [Link](../README.md#preprocessing-1)     |
 | 5. EDA: perform EDA, e.g., descriptive statistics                                             | Jaskirat          | [Link](../models)                        |
 | 6. EDA: Summarize findings with key figure(s)                                                 | Amy               | [Link](../README.md#eda-1)               |
-| 7. Model Training Summary                                                                     | Yi-Chen           | [Link](../README.md#model-training-summary)               |
+| 7. Model training summary                                                                     | Yi-Chen           | [Link](../README.md#model-training-summary)               |
 | 8. Baseline model (train): split data, engineer features, build, tune (cv), and train model   | Isra              | [Link](../models)                        |
 | 9. Baseline model (test): evaluate model and visualize performance                            | Isra (evaluate), Uma (visual) | [Link](../models)            |
 | 10. Baseline model: summarize findings with key figure(s) in Results                           | Isra              | [Link](../README.md#baseline-model)      |
@@ -36,9 +36,9 @@
 | Amy Li (PR for task 4,6)            | Isra Khan                                      |
 | Isra Khan                           | Yi-Chen Hsiao                                  |
 | Yi-Chen Hsiao                       | Uma Deshpande                                  |
-| Uma Deshpande (PR for tasks 8 & 11) | Chun-Yuan Chen                                 |
+| Uma Deshpande (PR for tasks 9 & 12) | Chun-Yuan Chen                                 |
 | Chun-Yuan Chen                      | Amy Li                                         |
-| Amy Li (PR for task 15)             | Jaskirat Kaur                                  |
+| Amy Li (PR for task 16)             | Jaskirat Kaur                                  |
 
 *Friendly Reminder:*<br> 
 *- Each team member must have created a pull request, and reviewed and merged a different pull request.* 
