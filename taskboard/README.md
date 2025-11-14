@@ -28,15 +28,15 @@
 🔔 Evaluation criteria: Each team member must have reviewed a PR.<br>
 🔔 Evaluation criteria: Each team member must have merged a different PR.<br>
 
-| PR Requestor                   | Approver (Merge the PR after approving)        |
-| ------------------------------ | ---------------------------------------------- |
-| Jaskirat Kaur                  | Amy Li                                         |
-| Amy Li (PR for task 4,6)       | Isra Khan                                      |
-| Isra Khan                      | Yi-Chen Hsiao                                  |
-| Yi-Chen Hsiao                  | Uma Deshpande                                  |
-| Uma Deshpande (PR for task 11) | Chun-Yuan Chen                                 |
-| Chun-Yuan Chen                 | Amy Li                                         |
-| Amy Li (PR for task 15)        | Jaskirat Kaur                                  |
+| PR Requestor                        | Approver (Merge the PR after approving)        |
+| ----------------------------------- | ---------------------------------------------- |
+| Jaskirat Kaur                       | Amy Li                                         |
+| Amy Li (PR for task 4,6)            | Isra Khan                                      |
+| Isra Khan                           | Yi-Chen Hsiao                                  |
+| Yi-Chen Hsiao                       | Uma Deshpande                                  |
+| Uma Deshpande (PR for tasks 8 & 11) | Chun-Yuan Chen                                 |
+| Chun-Yuan Chen                      | Amy Li                                         |
+| Amy Li (PR for task 15)             | Jaskirat Kaur                                  |
 
 *Friendly Reminder:*<br> 
 *- Each team member must have created a pull request, and reviewed and merged a different pull request.* 
