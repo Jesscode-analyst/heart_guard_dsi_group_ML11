@@ -144,25 +144,25 @@ Most variable appear to be normally distributed, aside from old peak which is do
 **Distribution of Categorical Variables**
 - Sex
 There are more females in the dataset.
-<img src="images/Sex distribution.png" width="400"/>
+<img src="images/Sex distribution.png" width="350"/>
 
 - Chest Pain Type
 
 In terms of chest pain type, most people do not have any chest pain. This is followed by non-angina chest pain, and then atypical chest pain. Very small smaple of 5% actually have typical chest pain.
 
-<img src="images/Chest Pain distribution.png" width="400"/>
+<img src="images/Chest Pain distribution.png" width="350"/>
 
 - Resting ECG
 
 In terms of resting ECG, most are normal. ST-T wave abnormality and left ventricular hypertrophy are similar in proportion.
 
-<img src="images/Resting ECG distribution.png" width="400"/>
+<img src="images/Resting ECG distribution.png" width="350"/>
 
 - ST_Slope
 
 In terms of ST slope, about half are flat. 43% are up and 6.9% are down.
 
-<img src="images/ST slope distribution.png" width="400"/>
+<img src="images/ST slope distribution.png" width="350"/>
 
 **Distribution of Heart Disease Among Categorical Variables**
 
@@ -187,7 +187,10 @@ In terms of ST slope, about half are flat. 43% are up and 6.9% are down.
 ### Model Training Summary
 <img src="images/Model training summary.png" width="800"/>
 
-**Baseline model**
+`Baseline model`
+
+Pipeline
+<img src="images/logistic_pipeline.png" width="400"/>
 
 We used Logistic Regression as our Baseline model and the results on the testing data were:
 - Accuracy: 0.85
@@ -205,12 +208,16 @@ ROC-AUC Curve:
 <img src="images/logistic_roc_auc.png" width="400"/>
 
 
-**Advanced model**
+`Advanced model`
+Pipeline
+<img src="images/RF_pipeline.png" width="400"/>
 
 We used Random Forest as our Advanced model and the results on the testing data were:
 - Accuracy: 0.88
 - AUC Score: 0.94
 - F1 Score: 0.87
+
+The Random Forest classifier is performing very well with an AUC of 0.94 and an accuracy of 88%. Contrary to logistic regression model, it demonstrates slightly better performance at correctly identifying negative cases (Specificity = 91.0%) than positive cases (Sensitivity = 84.7%), but both metrics are strong.
 
 Confusion Matrix:
 
@@ -219,8 +226,6 @@ Confusion Matrix:
 ROC-AUC Curve:
 
 <img src="images/logistic_roc_auc.png" width="400"/>
-
-The Random Forest classifier is performing very well with an AUC of 0.94 and an accuracy of 88%. Contrary to logistic regression model, it demonstrates slightly better performance at correctly identifying negative cases (Specificity = 91.0%) than positive cases (Sensitivity = 84.7%), but both metrics are strong.
 
 ### Model comparison
 We constructed two models for comparison: logistic regression and random forest. To ensure a fair evaluation, both models were trained using identical features and parameters, including 11 features, training set size, data shuffling, stratification strategy, and the number of cross-validation folds. Based on test set accuracy, the random forest model demonstrated superior performance.
