@@ -9,16 +9,18 @@
 | 4. Preprocess: summarize findings with key figure(s) if applicable                            | Amy               | [Link](../README.md#preprocessing-1)     |
 | 5. EDA: perform EDA, e.g., descriptive statistics                                             | Jaskirat          | [Link](../models)                        |
 | 6. EDA: Summarize findings with key figure(s)                                                 | Amy               | [Link](../README.md#eda-1)               |
-| 7. Baseline model (train): split data, engineer features, build, tune (cv), and train model   | Isra              | [Link](../models)                        |
-| 8. Baseline model (test): evaluate model and visualize performance                            | Isra (evaluate), Uma (visual) | [Link](../models)            |
-| 9. Baseline model: summarize findings with key figure(s) in Results                           | Isra              | [Link](../README.md#baseline-model)      |
-| 10. Advanced model (train): split data, engineer features, build, tune (cv), and train model  | Yi-Chen           | [Link](../models)                        |
-| 11. Advanced model (test): evaluate model and visualize performance                           | Uma               | [Link](../models)                        |
-| 12. Advanced model: summarize findings with key figure(s) in Results                          | Yi-Chen           | [Link](../README.md#advanced-model)      |
-| 13. Summarize model comparison findings in Results                                            | Chun-Yuan (Eric)  | [Link](../README.md#model-comparison-1)  |
-| 14. Conduct and summarize feature importance for the model with better performance in Results | Chun-Yuan (Eric)  | [Link](../README.md#feature-importance-1)|
-| 15. Write conclusion, limitations, and future directions                                      | Amy               | [Link](../README.md#conclusion)          |
-| 16. Prepare 5-min presentation (Sat., Nov 15)                                                 | All               | [Link](../presentation)                  |
+| 7. Model Training Summary                                                                     | Yi-Chen           | [Link](../README.md#model-training-summary)               |
+| 8. Baseline model (train): split data, engineer features, build, tune (cv), and train model   | Isra              | [Link](../models)                        |
+| 9. Baseline model (test): evaluate model and visualize performance                            | Isra (evaluate), Uma (visual) | [Link](../models)            |
+| 10. Baseline model: summarize findings with key figure(s) in Results                           | Isra              | [Link](../README.md#baseline-model)      |
+| 11. Advanced model (train): split data, engineer features, build, tune (cv), and train model  | Yi-Chen           | [Link](../models)                        |
+| 12. Advanced model (test): evaluate model and visualize performance                           | Uma               | [Link](../models)                        |
+| 13. Advanced model: summarize findings with key figure(s) in Results                          | Yi-Chen           | [Link](../README.md#advanced-model)      |
+| 14. Summarize model comparison findings in Results                                            | Chun-Yuan (Eric)  | [Link](../README.md#model-comparison-1)  |
+| 15. Conduct and summarize feature importance for the model with better performance in Results | Chun-Yuan (Eric)  | [Link](../README.md#feature-importance-1)|
+| 16. Write conclusion, limitations, and future directions                                      | Amy               | [Link](../README.md#conclusion)          |
+| 17. Prepare 5-min presentation (Sat., Nov 15)                                                 | All               | [Link](../presentation)                  |
+
 
 *Friendly Reminder:*<br> 
 *- Do not commit directly to the main branch, each task should be developed in its own branch for review.*<br>
