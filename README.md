@@ -113,7 +113,7 @@ Exploratory data analysis will identify patterns, relationships, and trends in t
 ### Models
 
 #### Model building
-We aim to predict the presence of heart disease, which frames this as a supervised classification problem. We will establish a baseline using Logistic Regression before implementing more advanced models like Random Forest or XGBoost. A comparison of the model results will determine the necessity of exploring additional models. GridSearchCV will also be employed for optimization, as described in the model optimization section.<br>
+We aim to predict the presence of heart disease, which frames this as a supervised classification problem. We will establish a baseline using Logistic Regression before implementing more advanced model like Random Forest. A comparison of the model results will determine the necessity of exploring additional models. GridSearchCV will also be employed for optimization, as described in the model optimization section.<br>
 
 #### Model Optimization & Cross-validation
 In the later stages of development, the project will optimize both the baseline and advanced models through hyperparameter tuning. Model evaluation will be conducted using cross-validation techniques, specifically GridSearchCV.<br>
@@ -184,12 +184,43 @@ In terms of ST slope, about half are flat. 43% are up and 6.9% are down.
 - Pairplots
 <img src="images/Pairplot.png" width="800"/>
 
+### Model Training Summary
+<img src="images/Model training summary.png" width="800"/>
 
-### Baseline model
-Pending
+**Baseline model**
 
-### Advanced model
-Pending
+We used Logistic Regression as our Baseline model and the results on the testing data were:
+- Accuracy: 0.85
+- AUC Score: 0.92
+- F1 Score: 0.85
+
+The Logistic Regression model shows strong predictive power, with an AUC of 0.92 and an overall accuracy of 85.3%. It is slightly better at correctly identifying positive cases than ruling out negative cases.
+
+Confusion Matrix:
+
+<img src="images/logistic_confusion_matrix.png" width="400"/>
+
+ROC-AUC Curve:
+
+<img src="images/logistic_roc_auc.png" width="400"/>
+
+
+**Advanced model**
+
+We used Random Forest as our Advanced model and the results on the testing data were:
+- Accuracy: 0.88
+- AUC Score: 0.94
+- F1 Score: 0.87
+
+Confusion Matrix:
+
+<img src="images/logistic_confusion_matrix.png" width="400"/>
+
+ROC-AUC Curve:
+
+<img src="images/logistic_roc_auc.png" width="400"/>
+
+The Random Forest classifier is performing very well with an AUC of 0.94 and an accuracy of 88%. Contrary to logistic regression model, it demonstrates slightly better performance at correctly identifying negative cases (Specificity = 91.0%) than positive cases (Sensitivity = 84.7%), but both metrics are strong.
 
 ### Model comparison
 We constructed two models for comparison: logistic regression and random forest. To ensure a fair evaluation, both models were trained using identical features and parameters, including 11 features, training set size, data shuffling, stratification strategy, and the number of cross-validation folds. Based on test set accuracy, the random forest model demonstrated superior performance.
