@@ -119,7 +119,40 @@ Pending
 Pending
 
 ### Feature importance
-Pending
+We utilized SHAP bar, beeswarm, waterfall, and force plots to visualize feature importance for the model with better performance.
+
+#### Bar plot
+The bar plot shows the mean absolute SHAP values for each feature we included in the model, which represent how much each feature contributes to the model's prediction of heart disease (class 1) versus normal (class 0) overall.
+
+<img src="images/shap_barplot.jpg" width="800"/>
+
+In the figure above, our better model relies most heavily on ST segment slope, chest pain type, and exercise-induced angina to distinguish between normal and heart disease cases. 
+
+#### Beeswarm plot
+The beeswarm plot displays individual SHAP values for each observation, allowing us to clearly see how each feature influences every participant in our dataset. The spread of SHAP values also indicates whether a feature affects individuals consistently or in varying ways.
+
+<img src="images/shap_beeswarmplot.jpg" width="800"/>
+
+In the figure above:
+* ST segment slope: Individuals with a flat or downward slope of the peak exercise ST segment often face an obviously increased risk of heart disease. However, the wide spread of SHAP values across all observations indicates that the impact of this feature varies among individuals.
+* Chest pain type: Asymptomatic pain is a risk indicator for heart disease. Other types, such as typical angina, tend to be associated with lower risk, possibly because they lead to earlier detection. The spread of SHAP values also shows some variability, suggesting that chest pain type interacts with other features.
+* Exercise-induced angina: This feature demonstrates more consistent behavior than ST segment slope and chest pain type. When an individual experiences angina during exercise, the model consistently increases their predicted risk. However, there remains some variation in its impact across different individuals.
+
+Interestingly, we note that in terms of SHAP value spread, sex shows a distinct pattern between men and women. Being male is associated with an increased risk, and this effect appears consistent across male participants. In contrast, being female tends to reduce risk, but the degree of this protective effect varies. This observation suggests the potential value of conducting subgroup analyses in future studies.
+
+#### Waterfall plot and force plot
+In contrast to the bar plot and the beeswarm plot above, the waterfall plot and force plot both focus on only one observation. Differently, the waterfall plot highlights how the SHAP score is built (which feature came first and how much it added), and the other shows how features push the score (which features had the strongest push/pull). We used observation 12 as an example of an individual with heart disease below.
+
+<img src="images/shap_waterfallplot_obs12_heartdisease.jpg" width="800"/>
+
+In the figure above, we can see that for this observation, the final prediction is 0.915, suggesting that after accounting for all feature effects, the model predicts a pretty high risk of heart disease for this individual. The most influential risk factor is ST_Slope = flat, which contributes significantly to the prediction.
+
+<img src="images/shap_forceplot_obs12_heartdisease.jpg" width="800"/>
+
+In the figure above, we can additionally get a sense of how strong that features' effect are, which is a pretty good quick review for this individual.
+
+
+We also include another example (obs 36) without heart disease using the waterfall and force plots; please refer to the image folder for details.
 
 ## Conclusion
 Pending
