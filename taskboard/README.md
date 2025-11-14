@@ -4,6 +4,7 @@
 | Task                                                                                          | Lead              | Anchor                                   | 
 | --------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------- |
 | 1. Project proposal: business case, objectives, roadmap, methods, limitations, etc.           | All               | [Link](../README.md)                     |
+<<<<<<< HEAD
 | 2. Create and maintain GitHub repo                                                            | Chun-Yuan (Eric)  | [Link](../README.md)                     |
 | 3. Preprocess: load, check, and clean data                                                    | Jaskirat          | [Link](../models)                        |
 | 4. Preprocess: summarize findings with key figure(s) if applicable                            | Amy               | [Link](../README.md#preprocessing-1)     |
@@ -14,6 +15,18 @@
 | 9. Baseline model: summarize findings with key figure(s) in Results                           | Isra              | [Link](../README.md#baseline-model)      |
 | 10. Advanced model (train): split data, engineer features, build, tune (cv), and train model  | Yi-Chen           | [Link](../models)                        |
 | 11. Advanced model (test): evaluate model and visualize performance                           | Uma               | [Link](../models)                        |
+=======
+| 2. Create GitHub repo                                                                         | Chun-Yuan (Eric)  | [Link](../README.md)                     |
+| 3. Preprocess: load, check, and clean data                                                    | Jaskirat          | [Link](../models/preprocess.ipynb)       |
+| 4. Preprocess: summarize findings with key figure(s) if applicable                            | Amy               | [Link](../README.md#preprocessing-1)     |
+| 5. EDA: perform EDA, e.g., descriptive statistics                                             | Jaskirat          | [Link](../models/eda.ipynb)              |
+| 6. EDA: Summarize findings with key figure(s)                                                 | Amy               | [Link](../README.md#eda-1)               |
+| 7. Baseline model (train): split data, engineer features, build, tune (cv), and train model   | Isra              | [Link](../models/baseline.ipynb)         |
+| 8. Baseline model (test): evaluate model and visualize performance                            | Isra & Uma        | [Link](../models/baseline.ipynb)         |
+| 9. Baseline model: summarize findings with key figure(s) in Results                           | Isra              | [Link](../README.md#baseline-model)      |
+| 10. Advanced model (train): split data, engineer features, build, tune (cv), and train model  | Yi-Chen & Uma     | [Link](../models/advanced.ipynb)         |
+| 11. Advanced model (test): evaluate model and visualize performance                           | Yi-Chen & Uma     | [Link](../models/advanced.ipynb)         |
+>>>>>>> ce416af2dc2a613d3136daeb3c5d76e71185d284
 | 12. Advanced model: summarize findings with key figure(s) in Results                          | Yi-Chen           | [Link](../README.md#advanced-model)      |
 | 13. Summarize model comparison findings in Results                                            | Chun-Yuan (Eric)  | [Link](../README.md#model-comparison-1)  |
 | 14. Conduct and summarize feature importance for the model with better performance in Results | Chun-Yuan (Eric)  | [Link](../README.md#feature-importance-1)|
@@ -23,11 +36,12 @@
 *Friendly Reminder:*<br> 
 *- Do not commit directly to the main branch, each task should be developed in its own branch for review.*<br>
 
-# Create and Review Pull Request (PR)
+# Create, Review, Approve, and Merge Pull Request (PR)
 🔔 Evaluation criteria: Each team member must have created a PR.<br>
 🔔 Evaluation criteria: Each team member must have reviewed a PR.<br>
 🔔 Evaluation criteria: Each team member must have merged a different PR.<br>
 
+<<<<<<< HEAD
 | PR Requestor                        | Approver (Merge the PR after approving)        |
 | ----------------------------------- | ---------------------------------------------- |
 | Jaskirat Kaur                       | Amy Li                                         |
@@ -40,3 +54,13 @@
 
 *Friendly Reminder:*<br> 
 *- Each team member must have created a pull request, and reviewed and merged a different pull request.* 
+=======
+| PR author         | Approver (Merge the PR after reviewing & approving) |
+| ----------------- | --------------------------------------------------- |
+| Jaskirat Kaur     | Isra Khan                                           |
+| Isra Khan         | Yi-Chen Hsiao                                       |
+| Yi-Chen Hsiao     | Uma Deshpande                                       |
+| Uma Deshpande     | Chun-Yuan Chen                                      |
+| Chun-Yuan Chen    | Amy Li                                              |
+| Amy Li            | Jaskirat Kaur                                       |  
+>>>>>>> ce416af2dc2a613d3136daeb3c5d76e71185d284
