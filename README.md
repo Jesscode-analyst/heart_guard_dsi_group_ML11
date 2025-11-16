@@ -280,7 +280,6 @@ With more time, our work could move to pilot testing. We would like to partner w
 
 
 ## Reflection Videos
-The links currently point to YouTube as placeholders; please replace them with your own 3-5 minute video links once ready.
 
 * [Amy Li](https://drive.google.com/file/d/16G6pfouyfh0vQgdSSxwZyvXCJqKaApSM/view?usp=sharing)
 * [Chun-Yuan Chen](https://drive.google.com/file/d/1x57KtPPSrBaGB2vOhLWSlMj4dWKyEQPk/view?usp=drive_link) 
