@@ -19,7 +19,7 @@
 | 14. Summarize model comparison findings in Results                                            | Chun-Yuan (Eric)  | [Link](../README.md#model-comparison-1)  |
 | 15. Conduct and summarize feature importance for the model with better performance in Results | Chun-Yuan (Eric)  | [Link](../README.md#feature-importance-1)|
 | 16. Write conclusion, limitations, and future directions                                      | Amy               | [Link](../README.md#conclusion)          |
-| 17. Prepare 5-min presentation (Sat., Nov 15)                                                 | All               | [Link](../presentation)                  |
+| 17. Prepare 5-min presentation (Sat., Nov 15)                                                 | All               |                  |
 
 
 *Friendly Reminder:*<br> 
