@@ -287,7 +287,7 @@ The links currently point to YouTube as placeholders; please replace them with y
 * [Isra Khan](https://drive.google.com/file/d/1RFV8o9OJEZ4zOMUxIv2oh7El55yPBax2/view?usp=sharing)
 * [Jaskirat Kaur](https://www.youtube.com/watch?v=wueGRSkavlw)
 * [Uma Deshpande](https://drive.google.com/file/d/1t14aN286DeHEG6wY-fTDOCQcDKGd5tfw/view?usp=sharing)
-* [Yi-Chen Hsiao]([https://www.youtube.com/](https://www.youtube.com/watch?v=WTfjKbg65LM))
+* [Yi-Chen Hsiao](https://www.youtube.com/watch?v=WTfjKbg65LM)
 
 ## Folder Structure
 
